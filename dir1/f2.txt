@@ -1,1 +1,5 @@
-You are so stupid!
+<html>
+<head></head>
+<body></body>
+
+</html>
